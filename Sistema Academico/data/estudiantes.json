@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Henry",
+    "apellido": "Calle",
+    "email": "henrycalle16@gmail.com",
+    "carnet": "HCALLEB",
+    "carrera": "Software"
+  },
+  {
+    "id": 2,
+    "nombre": "Diego",
+    "apellido": "Cordero",
+    "email": "dgoe@gmail.com",
+    "carnet": "DCORDEROA",
+    "carrera": "Software"
+  },
+  {
+    "id": 3,
+    "nombre": "Itzel",
+    "apellido": "Marmolejo",
+    "email": "jgj@gmail.com",
+    "carnet": "IMARMOJ",
+    "carrera": "Software"
+  }
+]

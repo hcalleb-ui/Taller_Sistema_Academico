@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ingles",
+    "codigo": "INGLES01",
+    "creditos": 2,
+    "cupos": 9
+  }
+]
